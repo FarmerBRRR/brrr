@@ -1,0 +1,31 @@
+[
+  {
+    "poolAddress": "GjvW8JQSpKG5ogjyD3zozfaeJSShTajS5ZFrexT8L12k",
+    "pair": "AVA/SOL",
+    "type": "Standard",
+    "tokenA": {
+      "symbol": "SOL",
+      "name": "Wrapped SOL",
+      "address": "So11111111111111111111111111111111111111112"
+    },
+    "tokenB": {
+      "symbol": "AVA",
+      "name": "Ava AI",
+      "address": "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump"
+    }
+  },
+  {
+    "poolAddress": "vRjiX6EXCsRxm17DVDynXU7Uw9vSrurWDzmxBtb4Eg3",
+    "pair": "AVA/SOL",
+    "type": "Concentrated",
+    "tokenA": {
+      "symbol": "SOL",
+      "name": "Wrapped SOL",
+      "address": "So11111111111111111111111111111111111111112"
+    },
+    "tokenB": {
+      "symbol": "AVA",
+      "address": "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump"
+    }
+  }
+]
